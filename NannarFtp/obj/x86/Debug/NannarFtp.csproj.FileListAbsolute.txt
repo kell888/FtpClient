@@ -1,0 +1,8 @@
+F:\NannarFtp\NannarFtp\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NannarFtp\NannarFtp\obj\x86\Debug\NannarFtp.Form1.resources
+F:\NannarFtp\NannarFtp\obj\x86\Debug\NannarFtp.Properties.Resources.resources
+F:\NannarFtp\NannarFtp\bin\Debug\NannarFtp.exe
+F:\NannarFtp\NannarFtp\bin\Debug\NannarFtp.pdb
+F:\NannarFtp\NannarFtp\obj\x86\Debug\NannarFtp.exe
+F:\NannarFtp\NannarFtp\obj\x86\Debug\NannarFtp.pdb
+F:\NannarFtp\NannarFtp\obj\x86\Debug\NannarFtp.Form2.resources
